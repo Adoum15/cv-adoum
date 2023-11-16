@@ -129,11 +129,11 @@ header span {
 
 .picture {
   grid-area: picture;
-  padding: 6rem;
+  padding: 6rem 2rem;
   background: var(--background);
 }
 .picture img {
-  border-radius: 50%;
+  border-radius: 40%;
 }
 
 aside {
